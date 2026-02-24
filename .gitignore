@@ -130,4 +130,14 @@ application.log*
 
 # Test results
 test-results/
-.scannerwork/ 
+.scannerwork/
+
+# Claude Code
+.claude/
+CLAUDE.md
+TEMPLATE-GUIDE.md
+
+# Misc
+mydocs/
+nul
+{{FRONTEND_DIR}}/
