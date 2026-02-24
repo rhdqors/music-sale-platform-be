@@ -2,6 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(./gradlew:*)",
+      "Bash(./gradlew test:*)",
+      "Bash(./gradlew compileJava:*)",
+      "Bash(./gradlew compileTestJava:*)",
+      "Bash(./gradlew build:*)",
+      "Bash(curl:*)",
       "Bash(find:*)",
       "Bash(brew services:*)",
       "Bash(brew install:*)",
